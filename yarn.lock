@@ -716,10 +716,10 @@ pinkie@^2.0.0:
   resolved "https://registry.yarnpkg.com/pinkie/-/pinkie-2.0.4.tgz#72556b80cfa0d48a974e80e77248e80ed4f7f870"
   integrity sha1-clVrgM+g1IqXToDnckjoDtT3+HA=
 
-pkg.json@^2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/pkg.json/-/pkg.json-2.0.7.tgz#eb0cd53b47ee427aeed20b5d32528b785f58d638"
-  integrity sha512-C/nj5a+nDsoyHNLuSLEeHTxoxP0+MML7hkCTDso1y2VLB/TZodcuqmTlveGa8K8VJHYvWCYhx9ex5rStNuTm4g==
+pkg.json@^2.0.8:
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/pkg.json/-/pkg.json-2.0.8.tgz#c9f2eb465622a86b2d532eeb9f3cd96697064dc1"
+  integrity sha512-iIBceNPwO452wLbF73GCV5z/TY9UydLWEV+wBjegAObPF/PihDL9ZUr2g2EFI7XqPFMTLEX/QtL63Z+zzFZ7yA==
   dependencies:
     git-package-json "^1.4.0"
     git-source "^1.1.0"
